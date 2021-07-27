@@ -2,7 +2,7 @@
 'use strict';
 
 // IF WE WANT TO KEEP JAVASCRIPT STRICT THEN AT THE TOP OF THE PAGE  USE ==>  'use strict';
-// helps in showing errors in our cide
+// helps in showing errors in our code
 //it helps in many ways just use it
 
 
